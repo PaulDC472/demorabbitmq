@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: appsettings-rabbitconsumer
+data:
+  appsettings.k8s.json: |- 
+    {
+
+     "UrlRabbitMQ": "rabbitservice.default.svc.cluster.local"
+      
+    }

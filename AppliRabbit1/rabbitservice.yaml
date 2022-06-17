@@ -1,0 +1,13 @@
+
+kind: Service
+apiVersion: v1
+metadata:
+  name: rabbitservice
+spec:
+  selector:
+    app: rabbitapp
+  ports:
+    - name: amqp      
+      port: 5672
+    - name: http
+      port: 15672    

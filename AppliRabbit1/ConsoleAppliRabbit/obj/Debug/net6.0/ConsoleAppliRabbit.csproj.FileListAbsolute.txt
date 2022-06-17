@@ -1,0 +1,17 @@
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\bin\Debug\net6.0\ConsoleAppliRabbit.exe
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\bin\Debug\net6.0\ConsoleAppliRabbit.deps.json
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\bin\Debug\net6.0\ConsoleAppliRabbit.runtimeconfig.json
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\bin\Debug\net6.0\ConsoleAppliRabbit.dll
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\bin\Debug\net6.0\ConsoleAppliRabbit.pdb
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\obj\Debug\net6.0\ConsoleAppliRabbit.csproj.AssemblyReference.cache
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\obj\Debug\net6.0\ConsoleAppliRabbit.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\obj\Debug\net6.0\ConsoleAppliRabbit.AssemblyInfoInputs.cache
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\obj\Debug\net6.0\ConsoleAppliRabbit.AssemblyInfo.cs
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\obj\Debug\net6.0\ConsoleAppliRabbit.csproj.CoreCompileInputs.cache
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\obj\Debug\net6.0\ConsoleAppliRabbit.csproj.CopyComplete
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\obj\Debug\net6.0\ConsoleAppliRabbit.dll
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\obj\Debug\net6.0\refint\ConsoleAppliRabbit.dll
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\obj\Debug\net6.0\ConsoleAppliRabbit.pdb
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\obj\Debug\net6.0\ConsoleAppliRabbit.genruntimeconfig.cache
+C:\tmp\AppliRabbit1\AppliRabbit1\ConsoleAppliRabbit\obj\Debug\net6.0\ref\ConsoleAppliRabbit.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3eAJWNHEMpi9zgrFE2DjuNZmgyNPeln8u7zyh+xwIdk=",
+  "Source": "AppliRabbitConsumer",
+  "BasePath": "_content/AppliRabbitConsumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

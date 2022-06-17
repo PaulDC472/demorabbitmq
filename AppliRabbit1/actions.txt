@@ -1,0 +1,83 @@
+
+
+* modifier le code pour le rendre configurable (k8s.json)
+
+
+
+
+
+* créer 2 dossiers dans dockerhub prod+conso
+
+
+* generer les images prod+conso
+
+$ docker build -t pauldacruz/rabbitproducer:v1 -f ./AppliRabbit1/dockerfile . 
+$ docker build -t pauldacruz/rabbitproducer:v1 -f ./AppliRabbit1/dockerfile .
+
+
+$ docker build -t pauldacruz/rabbitconsumer:v1 -f ./AppliRabbitComsumer/dockerfile .
+
+ 
+
+docker build . -t pauldacruz/rabbitproducer:v1 
+docker build . -t pauldacruz/rabbitproducer:latest
+docker build . -t pauldacruz/rabbitconsumer:v1 
+docker build . -t pauldacruz/rabbitconsumer:latest
+
+
+* les publier dans docker hub
+
+docker push pauldacruz/rabbitproducer:v1
+docker push pauldacruz/rabbitproducer:latest
+docker push pauldacruz/rabbitconsumer:v1
+docker push pauldacruz/rabbitconsumer:latest
+
+
+
+
+
+
+
+
+rabbit deployment
+
+kubectl apply -f .\rabbitdeployment.yaml  
+
+
+créer une service pour loadbalancer les appels sur les pods
+==> Rabbitservice.yaml
+
+
+
+
+
+
+get services -> url
+
+
+
+créer 	xconfigmap.yaml
+
+	xdeployment.yaml
+
+	xservice.yaml
+
+	xingress.yaml
+
+
+kubectl apply -f .\x.yaml  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
